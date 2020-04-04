@@ -1,11 +1,16 @@
 _repo: How-to-Cook-in-Casserole-Dishes_61720
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61720-h/images/cover.jpg
 creator:
   author:
     agent_name: Neil, Marion Harris
     gutenberg_agent_id: '4977'
     url: http://www.gutenberg.org/2009/agents/4977
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61720#How-to-Cook-in-Casserole-Dishes
 gutenberg_issued: '2020-03-31'
 gutenberg_type: Text
 identifiers:
